@@ -1,6 +1,6 @@
 Esta es la historia de Yellow Miauw
 
-Un gato amarillo que por un anuncio quiso programar
+Un gato amarillo que quiso programar solo porque ama el pooder del ctrl+z
 
 Ahora es contribuyente de un gran proyecto open source
 
