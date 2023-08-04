@@ -1,14 +1,17 @@
-# Hyperblog :tw-1f306:
+# Hyperblog 🌃
 Un blog increible para el curso de Git y Github de Platzi
-Este blog contiene cursos y proyectos que se van presentando durante mi aprendizaje en Platzi.
+Este blog contiene cursos y proyectos que se van realizando durante mi aprendizaje en Platzi.
 
  -  Curso de programacion básica 
-         Proyecto: KarateKute
+    
+     Proyecto: ***KarateKute***
 
 -  Curso de Git y Github de Platzi
-		Proyecto: Hyperblog
+	
+    Proyecto: ***Hyperblog***
 
 -  Curso de escritura en inglés
-		Proyecto: How to not shoot an Event 
+	
+    Proyecto: ***How to not shoot an Event***
 
-version 2.23:fa-child:
+version 2.23 ©Yellow Miauw, YOLO&FOMO.
