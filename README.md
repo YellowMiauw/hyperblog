@@ -1,5 +1,6 @@
 # Hyperblog 🌃
 Un blog increible para el curso de Git y Github de Platzi
+
 Este blog contiene cursos y proyectos que se van realizando durante mi aprendizaje en Platzi.
 
  -  Curso de programacion básica 
