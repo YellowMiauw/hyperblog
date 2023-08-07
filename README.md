@@ -15,4 +15,8 @@ Este blog contiene cursos y proyectos que se van realizando durante mi aprendiza
 	
     Proyecto: ***How to not shoot an Event***
 
+-  Curso de Notion
+	
+    Proyecto: ***Calendario Minimalista***
+
 version 2.23 ©Yellow Miauw, YOLO&FOMO.
