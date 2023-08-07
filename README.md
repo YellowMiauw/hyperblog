@@ -23,4 +23,8 @@ Este blog contiene cursos y proyectos que se van realizando durante mi aprendiza
 
     Proyecto: ***Excel automático***
 
+-  Curso de Habilidades Blandas
+	
+    Proyecto: ***Saber Poner límites***
+
 version 2.23 ©Yellow Miauw, YOLO&FOMO.
