@@ -19,4 +19,8 @@ Este blog contiene cursos y proyectos que se van realizando durante mi aprendiza
 	
     Proyecto: ***Calendario Minimalista***
 
+- Curso de Finanzas Personales
+
+    Proyecto: ***Excel automático***
+
 version 2.23 ©Yellow Miauw, YOLO&FOMO.
